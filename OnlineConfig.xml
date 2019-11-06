@@ -7,10 +7,10 @@
 	"banner_ad_unit_id":"Y2EtYXBwLXB1Yi0zNzU5MDU3ODIzMTM2NTIyLzEyMzk5NzAxODA=",	
 	"interstitial_full_screen_id":"Y2EtYXBwLXB1Yi0zNzU5MDU3ODIzMTM2NTIyLzM0ODI5OTAxNDg=",
 	"m_interstitial_frame_show":"20",
-	"s_had_fan_banner":"false",
-	"s_had_fan_interstitial":"false",
+	"s_had_fan_banner":"true",
+	"s_had_fan_interstitial":"true",
 	"fan_banner_ad_unit_id":"2252494264772768_2252495148106013",
 	"fan_interstitial_full_screen_id":"2252494264772768_2252498921438969",
-	"s_had_startpp_banner":"true",
-	"s_had_startpp_interstitial":"true"
+	"s_had_startpp_banner":"false",
+	"s_had_startpp_interstitial":"false"
 }
